@@ -1,7 +1,7 @@
 # Sonification Experiments
 Experiments with turning data into sound
 
-These experiments were done using [SuperCollider](https://supercollider.github.io/) on a Mac as a hack day project at [.AstronomyX](https://www.dotastronomy.com/home-ten/) with Nuwanthika Fernando.
+These experiments were done using [SuperCollider](https://supercollider.github.io/) on a Mac as a hack day project at [.AstronomyX](https://www.dotastronomy.com/home-ten/) with [Nuwanthika Fernando](https://github.com/nu-fern).
 1. [Flare Sonification](flareSoundsOne.scd)  
    Using a GALEX light curve made with [gPhoton](https://archive.stsci.edu/prepds/gphoton/) and mapping photon count to pitch.
 2. [Helix Nebula Sonification](nuwanthekaVideo.scd)  
