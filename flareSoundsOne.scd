@@ -1,8 +1,6 @@
 // Good flare
-~lc_fle = "/Users/cbrasseur/Documents/FlareWork/data/flareFiles/galexLcs/6371232501812170296_LC.csv";
-
-// Maybe flare
-~lc_fle = "/Users/cbrasseur/Documents/FlareWork/data/flareFiles/galexLcs/2567018939755267955_LC.csv";
+// **Replace path with full path on your system**
+~lc_fle = "/Users/cbrasseur/Documents/SonificationExperiments/data/galexLcs/6371232501812170296_LC.csv";
 
 ~lc = CSVFileReader.read(~lc_fle);
 ~lc.size;
